@@ -1,3 +1,3 @@
 # ret2z.github.io
 
-My Personal Blog via GitHub
+a simple record for CTF
