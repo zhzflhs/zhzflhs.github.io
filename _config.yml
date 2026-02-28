@@ -18,7 +18,7 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 2631792373@qq.com
   facebook:
   github: zhzflhs
   rss: welcome!
@@ -34,8 +34,7 @@ paginate_path: /page:num/
 
 # Gitalk
 gitalk:
-  clientID: cba98a0db83eb062c0f8
-  clientSecret: 46400b2614fb5c4189f6c5f662baee088712b316
+  clientID: Ov23liVLicTISQQQLk19
   repo: zhzflhs.github.io
   owner: ret2z
 
