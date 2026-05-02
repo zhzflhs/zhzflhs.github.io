@@ -2,7 +2,7 @@
 layout: post
 title: "长城杯2026 Final HeroEditor"
 date: 2026-05-02
-tags: [writeup]
+tags: [writeup, pwn]
 toc: false
 comments: true
 author: ret2z
