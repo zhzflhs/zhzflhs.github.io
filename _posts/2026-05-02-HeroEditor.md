@@ -1,4 +1,12 @@
-# HeroEditor
+---
+layout: post
+title: "长城杯2026 Final HeroEditor"
+date: 2026-05-02
+tags: [writeup]
+toc: false
+comments: true
+author: ret2z
+---
 
 此题为赛后复现
 
