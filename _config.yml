@@ -35,8 +35,9 @@ paginate_path: /page:num/
 # Gitalk
 gitalk:
   clientID: Ov23liVLicTISQQQLk19
+  clientSecret: ee9a7ab60b44df51e11aa221acb5a2987cc3a458
   repo: zhzflhs.github.io
-  owner: ret2z
+  owner: zhzflhs
 
 # The release of Jekyll Now
 version: v1.2.0
