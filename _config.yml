@@ -28,6 +28,7 @@ footer-links:
 footer-text: Copyright (c) 2026 ret2z
 
 url: https://zhzflhs.github.io
+timezone: Asia/Shanghai
 
 permalink: /:title/
 paginate_path: /page:num/
@@ -68,4 +69,3 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-
